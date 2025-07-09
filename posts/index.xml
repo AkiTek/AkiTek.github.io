@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on （仮）勉強共有会</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on （仮）勉強共有会</description>
+    <image>
+      <title>（仮）勉強共有会</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.147.9</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 08 Jul 2025 23:15:31 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>📕第一回勉強共有会</title>
+      <link>http://localhost:1313/posts/testpost/</link>
+      <pubDate>Tue, 08 Jul 2025 23:15:31 +0900</pubDate>
+      <guid>http://localhost:1313/posts/testpost/</guid>
+      <description>&lt;hr&gt;
+&lt;h2 id=&#34;第一回勉強共有会&#34;&gt;第一回勉強共有会&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;日時： 【2025-07-07 18:00 - 20:00】&lt;/li&gt;
+&lt;li&gt;場所:　Discord /　オンライン&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;参加者&#34;&gt;参加者&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/akitek&#34;&gt;Akitek&lt;/a&gt; :&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/soyster&#34;&gt;masamune&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/dozenkomeda&#34;&gt;shu_matsu&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;紹介記事&#34;&gt;紹介記事&lt;/h3&gt;
+&lt;h4 id=&#34;1-読書意識はなぜ生まれたのか-その起源から人工意識まで&#34;&gt;1. &lt;a href=&#34;https://zenn.dev/akitek/articles/8a24f153839e8f&#34;&gt;【読書】「意識はなぜ生まれたのか その起源から人工意識まで」&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Q1:「意識」&lt;/li&gt;
+&lt;li&gt;Q2:「感覚器官」の視覚レイヤーの4次について、&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;2-宇宙軌道力学に関する備忘録1背景について&#34;&gt;2. &lt;a href=&#34;https://zenn.dev/soyster/articles/99f52614ca37f3&#34;&gt;【宇宙軌道力学に関する備忘録#1】背景について&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Q1: 円制限三体問題の衛星には推進力は考慮しない
+&lt;ul&gt;
+&lt;li&gt;A1: 最初は考えずにする&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Q2: 重みは分かっているのか?
+&lt;ul&gt;
+&lt;li&gt;A2: 分かっている&lt;/li&gt;
+&lt;li&gt;位置(3次元）と速度(3次元）をひとつの球体に求める&lt;/li&gt;
+&lt;li&gt;2体問題だと、自由度が12(6+6)
+&lt;ul&gt;
+&lt;li&gt;なおかつ、相対問題に帰着できる（自由度を減らせる）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;3体問題だと、自由度が18 &amp;gt; 制約条件は10&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Q3: ５体以上は考えない、４体もレア
+&lt;ul&gt;
+&lt;li&gt;A3: ４体（太陽、月、地球、衛星）だが、ほとんどの場合、太陽を考慮すると月の存在は無視できるので、３体にしてしまうことが多い&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Q4: 宇宙軌道力学の研究領域の新規性にはどういうものがある
+&lt;ul&gt;
+&lt;li&gt;A4: ミッションに対して、「このような軌道を達成するように、このようなモデル・変数を加えます. このような挙動が大事ですよね」が新規性になる&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;3-不偏標本分散について&#34;&gt;3. &lt;a href=&#34;https://zenn.dev/dozenkomeda/articles/e7905972aadb73&#34;&gt;不偏標本分散について&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;「&lt;a href=&#34;https://www.amazon.co.jp/%E7%8F%BE%E4%BB%A3%E6%95%B0%E7%90%86%E7%B5%B1%E8%A8%88%E5%AD%A6%E3%81%AE%E5%9F%BA%E7%A4%8E-%E5%85%B1%E7%AB%8B%E8%AC%9B%E5%BA%A7-%E6%95%B0%E5%AD%A6%E3%81%AE%E9%AD%85%E5%8A%9B-%E4%B9%85%E4%BF%9D%E5%B7%9D-%E9%81%94%E4%B9%9F/dp/4320111664/&#34;&gt;現代数理統計学の基礎&lt;/a&gt;」の本がおすすめ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;運営メモ&#34;&gt;運営メモ&lt;/h2&gt;
+&lt;h3 id=&#34;discord周りの話&#34;&gt;Discord周りの話&lt;/h3&gt;
+&lt;h4 id=&#34;フォーラムチャンネルとは&#34;&gt;フォーラムチャンネルとは？&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;teamsの「投稿」みたいな&lt;/li&gt;
+&lt;li&gt;チャンネル「#」で埋もれそうなテーマは「フォーラムチャンネル」に移動して話をすすめる 😇&lt;/li&gt;
+&lt;li&gt;「フォーラム」のなかで返信しないと、そのユーザーに通知が届かない
+&lt;ul&gt;
+&lt;li&gt;そういう意味で、ブロードキャスト型ではないので、そういう全員通知したい場合は、チャンネル「#」を使うとよい&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;カテゴリ&#34;&gt;カテゴリ&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;「運営」「一般」のように、上位概念として「権限」をつけたりできる&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;タイムライン&#34;&gt;タイムライン&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;最初5分: 全体アナウンス&lt;/li&gt;
+&lt;li&gt;発表セッション：
+&lt;ul&gt;
+&lt;li&gt;発表： 5分&lt;/li&gt;
+&lt;li&gt;Q&amp;amp;A: 10分&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;感想5分&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;感想&#34;&gt;感想&lt;/h2&gt;</description>
+    </item>
+  </channel>
+</rss>
