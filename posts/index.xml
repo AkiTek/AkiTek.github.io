@@ -1,23 +1,103 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on （仮）勉強共有会</title>
+    <title>Posts on HAB (Hub a Blah&#39;st)</title>
     <link>https://akitek.github.io/posts/</link>
-    <description>Recent content in Posts on （仮）勉強共有会</description>
+    <description>Recent content in Posts on HAB (Hub a Blah&#39;st)</description>
     <image>
-      <title>（仮）勉強共有会</title>
+      <title>HAB (Hub a Blah&#39;st)</title>
       <url>https://akitek.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://akitek.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.147.9</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 08 Jul 2025 23:15:31 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 15 Jul 2025 22:51:01 +0900</lastBuildDate>
     <atom:link href="https://akitek.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>📘第二回勉強共有会</title>
+      <link>https://akitek.github.io/posts/20250715/</link>
+      <pubDate>Tue, 15 Jul 2025 22:51:01 +0900</pubDate>
+      <guid>https://akitek.github.io/posts/20250715/</guid>
+      <description>&lt;hr&gt;
+&lt;h2 id=&#34;第二回勉強共有会&#34;&gt;第二回勉強共有会&lt;/h2&gt;
+&lt;h3 id=&#34;参加者&#34;&gt;参加者&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/akitek&#34;&gt;Akitek&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/soyster&#34;&gt;masamune&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/dozenkomeda&#34;&gt;shu_matsu&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;紹介記事&#34;&gt;紹介記事&lt;/h3&gt;
+&lt;h4 id=&#34;1-llm搭載エージェント共に気候問題を議論させる&#34;&gt;1. LLM搭載エージェント共に気候問題を議論させる&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;ローカルLLM(Ollama)搭載のAgent同士で、議論をさせる&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;記憶や性格を個別に監理することで，複数のAgentを同時に管理可能&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Q1: Ollama は　MCPみたいなはなし？&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;{%preview &lt;a href=&#34;https://zenn.dev/kazuwombat/articles/d8789724f10092&#34;&gt;https://zenn.dev/kazuwombat/articles/d8789724f10092&lt;/a&gt; %}&lt;/li&gt;
+&lt;li&gt;APIの入力をLLMで整形する&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Q2: LLMってそんなに軽いの？&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Q3: 人間が間に入って処理を介入&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A3: いまはそういうのはできていないが、技術的には簡単に実現できる&lt;/li&gt;
+&lt;li&gt;人が議論に入りたくなるのでは、&lt;/li&gt;
+&lt;li&gt;会話のログを入れたらよいのでは？&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Q4: LLMの性格は「自然言語」でやっているのはなぜか？&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A4: ローカルLLMとは「テキスト」の入出力にしか対応していない&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;2-課外技術ブログ1ラジオ制作&#34;&gt;2. &lt;a href=&#34;https://zenn.dev/soyster/articles/dd9a5b4668279a&#34;&gt;【課外技術ブログ#1】ラジオ制作&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Q1: 学生時代に作っていたのは？&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A1: 学生時代には衛星関係の&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Q2: 周波数ごとに振幅を増幅させている理由は？&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A2:&lt;/li&gt;
+&lt;li&gt;AMは周波数の変化で0/1を作るが、&lt;/li&gt;
+&lt;li&gt;一回低周波にして、感度はよくなる&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Q3: オリジナルの波を、狙った音声を取り出せるように周波数を増幅させたり、分解している&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A3: AM変調だからシンプル&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Q4: ラジオはなにをきくのか&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A4: 霜降り、オールナイトニッポン、&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;{%preview &lt;a href=&#34;https://scrapbox.io/craftmemo/Python&#34;&gt;https://scrapbox.io/craftmemo/Python&lt;/a&gt;_で_離散フーリエ変換 %}&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
       <title>📕第一回勉強共有会</title>
-      <link>https://akitek.github.io/posts/testpost/</link>
+      <link>https://akitek.github.io/posts/20250707/</link>
       <pubDate>Tue, 08 Jul 2025 23:15:31 +0900</pubDate>
-      <guid>https://akitek.github.io/posts/testpost/</guid>
+      <guid>https://akitek.github.io/posts/20250707/</guid>
       <description>&lt;hr&gt;
 &lt;h2 id=&#34;第一回勉強共有会&#34;&gt;第一回勉強共有会&lt;/h2&gt;
 &lt;ul&gt;
