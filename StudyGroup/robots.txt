@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://akitek.github.io/sitemap.xml
+Sitemap: https://akitek.github.io/StudyGroup/sitemap.xml
