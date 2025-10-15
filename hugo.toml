@@ -18,7 +18,7 @@ style = "github-dark"
 
 [params]
   author = "Akira Matsuki"
-  info = ["Ph.D. Research", "on Geospatial Data & Digital Twin Simulation"]
+  info = ["Ph.D. Researcher", "on Geospatial Data & Digital Twin Simulation"]
   description = "Akitek's personal website"
   keywords = "blog,developer,personal"
   avatarurl = "images/avatar.png"
@@ -35,7 +35,7 @@ style = "github-dark"
   colorScheme = "auto"
   hidecolorschemetoggle = false
 
-  # customCSS = ["css/custom.css"]
+#   customCSS = ["/css/custom_style.css"]
   # customSCSS = ["scss/custom.scss"]
   # customJS = ["js/custom.js"]
 
@@ -61,6 +61,11 @@ style = "github-dark"
   icon = "fa-brands fa-instagram fa-2x"
   weight = 3
   url = "https://www.instagram.com/akitek09/"
+[[params.social]]
+  name = "Zenn"
+  icon = "fa-solid fa-square-rss fa-2x"
+  weight = 4
+  url = "https://zenn.dev/akitek"
 
 # Menu links
 [[menu.main]]
