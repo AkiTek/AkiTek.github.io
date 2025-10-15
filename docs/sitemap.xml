@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://akitek.github.io/profile/about/</loc>
+    <loc>https://akitek.github.io/profile/about/</loc>
     <lastmod>2025-10-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://akitek.github.io/profile/</loc>
+    <loc>https://akitek.github.io/profile/</loc>
     <lastmod>2025-10-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://akitek.github.io/profile/authors/</loc>
+    <loc>https://akitek.github.io/profile/authors/</loc>
   </url><url>
-    <loc>http://akitek.github.io/profile/categories/</loc>
+    <loc>https://akitek.github.io/profile/categories/</loc>
   </url><url>
-    <loc>http://akitek.github.io/profile/series/</loc>
+    <loc>https://akitek.github.io/profile/series/</loc>
   </url><url>
-    <loc>http://akitek.github.io/profile/tags/</loc>
+    <loc>https://akitek.github.io/profile/tags/</loc>
   </url>
 </urlset>
