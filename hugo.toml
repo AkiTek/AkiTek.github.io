@@ -1,4 +1,4 @@
-baseurl = "https://akitek.github.io/profile/"
+baseurl = "https://akitek.github.io/"
 title = "Akitek's History Blog"
 theme = "hugo-coder"
 languagecode = "en"
