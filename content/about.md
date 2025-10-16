@@ -25,8 +25,9 @@ author = "Akira Matsuki"
 
 
 ### Proceedings
-- A. Matsuki, "Proposal of a Rescue Simulator using an Agent Simulation Mechanism with Expert Disaster Response Strategy", JSAI 2022.
+- 松木　彰, "データ起点の避難行動モデリングと評価指標の構築を目指して", [第20回防災計画研究発表会](https://sites.google.com/dpri.kyoto-u.ac.jp/dmp2025/),2025
 - A. Matsuki, M. Hatayama: Building an Agent-Based Disaster Response Platform Using Geospatial Systems, [KUSP国際シンポジウム](https://www.platforms.ceppings.kyoto-u.ac.jp/archive/archive-1765/),2023.
+- A. Matsuki, "Proposal of a Rescue Simulator using an Agent Simulation Mechanism with Expert Disaster Response Strategy", JSAI 2022.
 - 松木 彰,畑山　満則: 長期浸水域での浸水深さの動的変化を考慮したボート救助戦略立案のためのモデル開発,情報処理学会, 2022.
 - 松木 彰,畑山　満則： 災害対応プラットフォーム構築に向けた浸水域での救助エージェントモデルの開発, DRIS11, 2022.
 - 松木　彰, 西野　智研, "消防隊の延焼阻止放水を考慮した市街地火災の物理的延焼予測", 日本建築学会大会(北陸), 2019.
@@ -38,6 +39,7 @@ author = "Akira Matsuki"
 - 若手優秀発表賞, "消防隊の延焼阻止放水を考慮した市街地火災の物理的延焼予測", by [日本建築学会大会(北陸)](https://taikai.aij.or.jp/2019/index.html), 2019/09/06
 
 ### Other Activities
+- 座長:["2O1-GS-10 AI応用：予測・生成"](https://confit.atlas.jp/guide/event/jsai2025/session/2O01-05/tables?LPouJitHqw), 2025年度　人工知能学会全国大会（第３９回）
 - LabBaseマガジン掲載： ["NECで働く若手研究者のホンネ対談"](https://compass.labbase.jp/articles/1037)
 - 特集号編集員: ["特集「都市デジタルツインの現在地とこれから」にあたって"](https://www.ai-gakkai.or.jp/published_books/journals_of_jsai/vol40_no4/),人工知能学会誌 Vol.40 No.4 (2025/7)
 - インタビュー記事掲載: ["プラットフォーム学"](https://www.amazon.co.jp/プラットフォーム学-単行本-原田-博司-ebook/dp/B0D7B9K5SC/), 角川アスキー総合研究所
