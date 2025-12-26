@@ -39,7 +39,9 @@ author = "Akira Matsuki"
 - 若手優秀発表賞, "消防隊の延焼阻止放水を考慮した市街地火災の物理的延焼予測", by [日本建築学会大会(北陸)](https://taikai.aij.or.jp/2019/index.html), 2019/09/06
 
 ### Other Activities
-- 座長:["2O1-GS-10 AI応用：予測・生成"](https://confit.atlas.jp/guide/event/jsai2025/session/2O01-05/tables?LPouJitHqw), 2025年度　人工知能学会全国大会（第３９回）
+- セッションオーガナイザー:["OS-28 GeoAI: 地理空間情報とAI"](https://www.ai-gakkai.or.jp/jsai2026/os/#os-28https://www.ai-gakkai.or.jp/jsai2026/os/#os-28), 人工知能学会全国大会（第40回）
+- 登壇発表:["京都大学卓越ワークショップ2025"](https://www.kugd.k.kyoto-u.ac.jp/イベント/5008.html), 京都大学
+- 座長:["2O1-GS-10 AI応用：予測・生成"](https://confit.atlas.jp/guide/event/jsai2025/session/2O01-05/tables?LPouJitHqw), 2025年度　人工知能学会全国大会（第39回）
 - LabBaseマガジン掲載： ["NECで働く若手研究者のホンネ対談"](https://compass.labbase.jp/articles/1037)
 - 特集号編集員: ["特集「都市デジタルツインの現在地とこれから」にあたって"](https://www.ai-gakkai.or.jp/published_books/journals_of_jsai/vol40_no4/),人工知能学会誌 Vol.40 No.4 (2025/7)
 - インタビュー記事掲載: ["プラットフォーム学"](https://www.amazon.co.jp/プラットフォーム学-単行本-原田-博司-ebook/dp/B0D7B9K5SC/), 角川アスキー総合研究所
