@@ -15,6 +15,9 @@ author = "Akira Matsuki"
     - 修了： 社会を駆動するプラットフォーム学卓越大学院プログラム / 
 - 2021-03-31: 修士（建築学）/M.D. (Architecture), 京都大学大学院　工学研究科
 
+### Groups
+- 2025-10-01 ~ 2027-03-31: [GIS学会GeoAI分科会](https://www.gisa-japan.org/sig.html)　構成員
+
 ### Reviewed-Paper
 - A. Matsuki et al., ["DATA-DRIVEN BEHAVIORAL AGENT MODELING FOR EFFECTIVE RESIDENT’S EVACUATION PREDICTION ON FLOOD DISASTERS"](), HICSS-59 Conference, 2026. (on printing)
 - A. Matsuki et al., ["Refining Residents Evacuation Prediction Model: A Data-Driven Approach to Improve Accuracy Based on Objective Evaluation Metrics"](), 2025 IEEE International Geoscience and Remote Sensing Symposium(IGARSS), 2025. (on printing)
@@ -41,6 +44,8 @@ author = "Akira Matsuki"
 ### Other Activities
 - セッションオーガナイザー:["OS-28 GeoAI: 地理空間情報とAI"](https://www.ai-gakkai.or.jp/jsai2026/os/#os-28https://www.ai-gakkai.or.jp/jsai2026/os/#os-28), 人工知能学会全国大会（第40回）
 - 登壇発表:["京都大学卓越ワークショップ2025"](https://www.kugd.k.kyoto-u.ac.jp/イベント/5008.html), 京都大学
+    - 実施レポート①：["京都大学卓越ワークショップ2025が開催されました。"](https://www.platforms.ceppings.kyoto-u.ac.jp/activity/京都大学卓越ワークショップ2025が開催されました/), 京都大学
+    - 実施レポート②：["「京都大学卓越ワークショップ２０２５」を開催しました"](https://www.kugd.k.kyoto-u.ac.jp/blog/「京都大学卓越ワークショップ２０２５」を開催/), 京都大学
 - 座長:["2O1-GS-10 AI応用：予測・生成"](https://confit.atlas.jp/guide/event/jsai2025/session/2O01-05/tables?LPouJitHqw), 2025年度　人工知能学会全国大会（第39回）
 - LabBaseマガジン掲載： ["NECで働く若手研究者のホンネ対談"](https://compass.labbase.jp/articles/1037)
 - 特集号編集員: ["特集「都市デジタルツインの現在地とこれから」にあたって"](https://www.ai-gakkai.or.jp/published_books/journals_of_jsai/vol40_no4/),人工知能学会誌 Vol.40 No.4 (2025/7)
