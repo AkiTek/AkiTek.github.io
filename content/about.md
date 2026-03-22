@@ -19,8 +19,9 @@ author = "Akira Matsuki"
 - 2025-10-01 ~ 2027-03-31: [GIS学会GeoAI分科会](https://www.gisa-japan.org/sig.html)　構成員
 
 ### Reviewed-Paper
-- A. Matsuki et al., ["DATA-DRIVEN BEHAVIORAL AGENT MODELING FOR EFFECTIVE RESIDENT’S EVACUATION PREDICTION ON FLOOD DISASTERS"](), HICSS-59 Conference, 2026. (on printing)
-- A. Matsuki et al., ["Refining Residents Evacuation Prediction Model: A Data-Driven Approach to Improve Accuracy Based on Objective Evaluation Metrics"](), 2025 IEEE International Geoscience and Remote Sensing Symposium(IGARSS), 2025. (on printing)
+- A, Matsuki et al., ["LANDMUSIQ: IMAGE SCORING NETWORK FOR URBAN VIBRANCY ESTIMATION LEVERAGING IMAGE CAPTURE CONDITION"](), 2025 IEEE International Geoscience and Remote Sensing Symposium(IGARSS), 2026. (on printing)
+- A. Matsuki et al., ["DATA-DRIVEN BEHAVIORAL AGENT MODELING FOR EFFECTIVE RESIDENT’S EVACUATION PREDICTION ON FLOOD DISASTERS"](https://hdl.handle.net/10125/111666), HICSS-59 Conference, 2026. Best Paper Nominee
+- A. Matsuki et al., ["Refining Residents Evacuation Prediction Model: A Data-Driven Approach to Improve Accuracy Based on Objective Evaluation Metrics"](https://doi.org/10.1109/IGARSS55030.2025.11243215), 2025 IEEE International Geoscience and Remote Sensing Symposium(IGARSS), 2025. 
 - 松木　彰, ["災害対応ガバナンス醸成のためのシミュレーション型プラットフォームの開発"](https://doi.org/10.14989/doctor.k25431), 学位論文(情報学博士), Kyoto University
 - A. Matsuki, M. Hatayama, ["Proposal of rescue strategies and evaluation of their effectiveness in long-term flooded areas considering the effect of drainage processing"](https://doi.org/10.1016/j.ijdrr.2024.104358), Int. J. Disaster Risk Reduc. 
 - A. Matsuki, M. Hatayama, ["Risk Analysis of Mutual Influence Relationships Among Residents Under Rescue Operations in Long-term Flooded Areas"](https://doi.org/10.1016/j.ijdrr.2023.104216), Int. J. Disaster Risk Reduc. 
