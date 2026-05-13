@@ -1,6 +1,6 @@
 +++
-title = "About"
-description = "My Vision, My History"
+title = "CV"
+description = "My Activity History"
 date = "2025-10-15"
 aliases = ["about-us", "about-hugo", "contact"]
 author = "Akira Matsuki"
@@ -19,7 +19,7 @@ author = "Akira Matsuki"
 - 2025-10-01 ~ 2027-03-31: [GIS学会GeoAI分科会](https://www.gisa-japan.org/sig.html)　構成員
 
 ### Reviewed-Paper
-- A, Matsuki et al., ["LANDMUSIQ: IMAGE SCORING NETWORK FOR URBAN VIBRANCY ESTIMATION LEVERAGING IMAGE CAPTURE CONDITION"](), 2025 IEEE International Geoscience and Remote Sensing Symposium(IGARSS), 2026. (on printing)
+- A, Matsuki et al., ["LANDMUSIQ: IMAGE SCORING NETWORK FOR URBAN VIBRANCY ESTIMATION LEVERAGING IMAGE CAPTURE CONDITION"](), 2026 IEEE International Geoscience and Remote Sensing Symposium(IGARSS), 2026. (on printing)
 - A. Matsuki et al., ["DATA-DRIVEN BEHAVIORAL AGENT MODELING FOR EFFECTIVE RESIDENT’S EVACUATION PREDICTION ON FLOOD DISASTERS"](https://hdl.handle.net/10125/111666), HICSS-59 Conference, 2026. Best Paper Nominee
 - A. Matsuki et al., ["Refining Residents Evacuation Prediction Model: A Data-Driven Approach to Improve Accuracy Based on Objective Evaluation Metrics"](https://doi.org/10.1109/IGARSS55030.2025.11243215), 2025 IEEE International Geoscience and Remote Sensing Symposium(IGARSS), 2025. 
 - 松木　彰, ["災害対応ガバナンス醸成のためのシミュレーション型プラットフォームの開発"](https://doi.org/10.14989/doctor.k25431), 学位論文(情報学博士), Kyoto University
