@@ -6,8 +6,7 @@ aliases = ["about-us", "about-hugo", "contact"]
 author = "Akira Matsuki"
 +++
 
----
-## CV
+
 ---
 ### Title
 - 2024-04-01 ~ : NEC Corporation, Researcher
