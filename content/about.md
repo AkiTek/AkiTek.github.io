@@ -42,7 +42,10 @@ author = "Akira Matsuki"
 - 若手優秀発表賞, "消防隊の延焼阻止放水を考慮した市街地火災の物理的延焼予測", by [日本建築学会大会(北陸)](https://taikai.aij.or.jp/2019/index.html), 2019/09/06
 
 ### Other Activities
-- セッションオーガナイザー:["OS-28 GeoAI: 地理空間情報とAI"](https://www.ai-gakkai.or.jp/jsai2026/os/#os-28https://www.ai-gakkai.or.jp/jsai2026/os/#os-28), 人工知能学会全国大会（第40回）
+- セッションオーガナイザー:人工知能学会全国大会（第40回）
+    - ["OS-28 GeoAI: 地理空間情報とAI"](https://www.ai-gakkai.or.jp/jsai2026/os/#os-28https://www.ai-gakkai.or.jp/jsai2026/os/#os-28), 
+    - ["KS-11 地球に生きるAI：GeoAIと私たちの暮らす社会について"](https://conf.ai-gakkai.or.jp/jsai2026/ks/#ks-11)
+    - ["企画セッション　特設サイト"](https://sites.google.com/dpri.kyoto-u.ac.jp/jsai2026-geoai)
 - 登壇発表:["京都大学卓越ワークショップ2025"](https://www.kugd.k.kyoto-u.ac.jp/イベント/5008.html), 京都大学
     - 実施レポート①：["京都大学卓越ワークショップ2025が開催されました。"](https://www.platforms.ceppings.kyoto-u.ac.jp/activity/京都大学卓越ワークショップ2025が開催されました/), 京都大学
     - 実施レポート②：["「京都大学卓越ワークショップ２０２５」を開催しました"](https://www.kugd.k.kyoto-u.ac.jp/blog/「京都大学卓越ワークショップ２０２５」を開催/), 京都大学
