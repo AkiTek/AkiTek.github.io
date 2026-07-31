@@ -46,6 +46,7 @@ author = "Akira Matsuki"
     - ["OS-28 GeoAI: 地理空間情報とAI"](https://www.ai-gakkai.or.jp/jsai2026/os/#os-28https://www.ai-gakkai.or.jp/jsai2026/os/#os-28), 
     - ["KS-11 地球に生きるAI：GeoAIと私たちの暮らす社会について"](https://conf.ai-gakkai.or.jp/jsai2026/ks/#ks-11)
     - ["企画セッション　特設サイト"](https://sites.google.com/dpri.kyoto-u.ac.jp/jsai2026-geoai)
+    - Note記事に掲載["「地球に生きるAI」—ジオとAI、二つのコミュニティが出会う場所で考えたこと—JSAI2026 企画セッションKS-11「地球に生きるAI：GeoAIと私たちの暮らす社会について」参加報告"](https://note.com/kiyota_yoji/n/n7e67c5c113fc)
 - 登壇発表:["京都大学卓越ワークショップ2025"](https://www.kugd.k.kyoto-u.ac.jp/イベント/5008.html), 京都大学
     - 実施レポート①：["京都大学卓越ワークショップ2025が開催されました。"](https://www.platforms.ceppings.kyoto-u.ac.jp/activity/京都大学卓越ワークショップ2025が開催されました/), 京都大学
     - 実施レポート②：["「京都大学卓越ワークショップ２０２５」を開催しました"](https://www.kugd.k.kyoto-u.ac.jp/blog/「京都大学卓越ワークショップ２０２５」を開催/), 京都大学
