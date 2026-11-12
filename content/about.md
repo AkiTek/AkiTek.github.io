@@ -16,6 +16,7 @@ author = "Akira Matsuki"
 
 ### Groups
 - 2025-10-01 ~ 2027-03-31: [GIS学会GeoAI分科会](https://www.gisa-japan.org/sig.html)　構成員
+- 2026-10-01 ~ : [人工知能学会](https://www.ai-gakkai.or.jp) 学会員
 
 ### Reviewed-Paper
 - A. Matsuki et al., ["TF-BIL: Training-Free Behavioral-Intent Labeling Leveraging Hierarchical Geo-Context Completion](), 2026 IEEE International Conference on Big Data (IEEE BigData 2026), 2026. (on printing)
@@ -43,6 +44,7 @@ author = "Akira Matsuki"
 - 若手優秀発表賞, "消防隊の延焼阻止放水を考慮した市街地火災の物理的延焼予測", by [日本建築学会大会(北陸)](https://taikai.aij.or.jp/2019/index.html), 2019/09/06
 
 ### Other Activities
+- 人工知能学会　実施報告記事：[特集：「2026 年度人工知能学会全国大会（第40 回）」](https://www.ai-gakkai.or.jp/published_books/journals_of_jsai/), 人工知能学会誌 Vol.41 No.6 (2026/11)
 - セッションオーガナイザー:人工知能学会全国大会（第40回）
     - ["OS-28 GeoAI: 地理空間情報とAI"](https://www.ai-gakkai.or.jp/jsai2026/os/#os-28https://www.ai-gakkai.or.jp/jsai2026/os/#os-28), 
     - ["KS-11 地球に生きるAI：GeoAIと私たちの暮らす社会について"](https://conf.ai-gakkai.or.jp/jsai2026/ks/#ks-11)
